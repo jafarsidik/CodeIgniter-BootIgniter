@@ -47,7 +47,6 @@
             <div class="hero-unit">
                 <h1>BootIgniter 0.0.1</h1>
                 <h2>A bundle of joy!</h2>
-                <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
             </div>
 
             <!-- Example row of columns -->
