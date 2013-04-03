@@ -17,8 +17,8 @@
                 padding-bottom: 40px;
             }
         </style>
-        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="<?php echo base_url('/css/'); ?>/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="<?php echo base_url('/css/'); ?>/main.css">
 
         <!--[if lt IE 9]>
             <script src="js/vendor/html5-3.6-respond-1.1.0.min.js"></script>
