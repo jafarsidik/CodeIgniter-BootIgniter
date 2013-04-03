@@ -8,7 +8,7 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
 
-        <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="<?php echo base_url('/js/vendor'); ?>/bootstrap.min.js"></script>
 
         <!-- <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.js"></script> -->
         <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/jquery.validate.min.js"></script>
@@ -17,7 +17,7 @@
         
         <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.0/localization/messages_da.js"></script>
         
-        <script src="js/main.js"></script>
+        <script src="<?php echo base_url('/js/'); ?>/main.js"></script>
 
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
