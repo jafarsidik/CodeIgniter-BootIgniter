@@ -70,6 +70,9 @@
                         </li>
                         <li>jQuery UI 1.10.0 (asp.net CDN)</li>
                         <li>jQuery UI CSS Dot-luv (asp.net CDN)</li>
+                        <li>jQuery Validate  1.11.0 (asp.net CDN)</li>
+                        <li>jQuery Validate - Additional Methods 1.11.0 (asp.net CDN)</li>
+                        <li>jQuery Validate Danish localization.</li>
                     </ul>
                 </div>
                 <div class="span4">
@@ -79,6 +82,9 @@
                         <li><a href="http://www.initializr.com/" target="blank">Initializr</a></li>
                         <li><a href="http://html5boilerplate.com/" target="blank">HTML5BOILERPLATE</a></li>
                         <li><a href="http://code.google.com/p/html5shiv/" target="blank">Html 5 Shiv</a></li>
+                        <li><a href="http://docs.jquery.com/" target="blank">JQuery</a></li>
+                        <li><a href="http://docs.jqueryui.com/UI" target="blank">JQuery UI</a></li>
+                        <li><a href="http://bassistance.de/jquery-plugins/jquery-plugin-validation/" target="blank">JQuery Validate Plugin</a></li>
                     </ul>
                </div>
             </div>
