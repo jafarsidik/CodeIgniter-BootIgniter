@@ -13,7 +13,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">BootIgniter 0.0.1</a>
+                    <a class="brand" href="#">BootIgniter</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             <li class="active"><a href="#">Home</a></li>
@@ -68,8 +68,6 @@
                                 <li>IE Classes</li>
                             </ul>
                         </li>
-                        <li>jQuery UI 1.10.0 (asp.net CDN)</li>
-                        <li>jQuery UI CSS Dot-luv (asp.net CDN)</li>
                     </ul>
                 </div>
                 <div class="span4">
