@@ -4,7 +4,10 @@ BootIgniter
 A CodeIgniter bundle setup with
 
 - CodeIgniter 2.1.3
-- Phil Sturgeon REST server
+- Phil Sturgeon's REST server
+https://github.com/philsturgeon/codeigniter-restserver
+- Jamie Rumbelow's CI base model
+https://github.com/jamierumbelow/codeigniter-base-model
 - Initializr Verekia 4.0 (Html5Boilerplate variant)
  - Twitter Bootstrap
  - jQuery 1.9.1 (updated)
