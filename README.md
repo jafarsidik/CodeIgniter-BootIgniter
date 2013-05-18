@@ -8,6 +8,7 @@ A CodeIgniter bundle setup with
 https://github.com/philsturgeon/codeigniter-restserver
 - Jamie Rumbelow's CI base model
 https://github.com/jamierumbelow/codeigniter-base-model
+- MY_Pagaination prepared with the semantics that twitter bootstrap use.
 - Initializr Verekia 4.0 (Html5Boilerplate variant)
  - Twitter Bootstrap
  - jQuery 1.9.1 (updated)
@@ -16,26 +17,24 @@ https://github.com/jamierumbelow/codeigniter-base-model
 - Backbone.js
 
 
-What is prepped?
+What is prepared?
 ============
-Url helper is autoloaded
 
 A very basic .htaccess file is included but set not to rewrite
 
-Two view files. head.php and footer.php. These include the bundle
+Url Helper is autoloaded in /application/config/autoload.php
 
-For js, css and images theres been added a folders in the root. Along with initial files
+Two view files. head.php and footer.php. These include the parts from html5boilerplate.
+
+Added js, css, and img folder to root. 
 
 Setup
 ============
 Configure or remove .htaccess file.
 
-Use the js, css, img in the root.
+Edit the header and footer for your needs.
 
-Responsive Twitter bootstrap is default.
 
-Use /application/view/header|footer for html5boilerplate (see welcome controller
-
-For Phil Sturgeon's REST server functionality check https://github.com/philsturgeon/codeigniter-restserver, 
-
-the files needed has been placed. 
+Notes
+============
+ Phil Sturgeon's REST class has been added to /application/models/MY_Model instead of the suggested application/core/
