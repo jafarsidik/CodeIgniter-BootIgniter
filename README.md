@@ -1,6 +1,11 @@
 BootIgniter
 ===========
 
+BEWARE - !!!
+===========
+This Package will no longer be updated.
+
+
 A CodeIgniter bundle setup with
 
 - CodeIgniter 2.1.3
@@ -10,7 +15,7 @@ https://github.com/philsturgeon/codeigniter-restserver
 https://github.com/jamierumbelow/codeigniter-base-model
 - MY_Pagaination prepared with the semantics that twitter bootstrap use.
 - Initializr Verekia 4.0 (Html5Boilerplate variant)
- - Twitter Bootstrap
+ - Twitter Bootstrap 2.*
  - jQuery 1.9.1 (updated)
  - HTML 5 Shiv
  - IE Classes
