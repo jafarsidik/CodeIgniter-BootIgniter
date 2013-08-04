@@ -1,21 +1,17 @@
 BootIgniter
 ===========
 
-BEWARE - !!!
-===========
-This Package will no longer be updated.
-
-
 A CodeIgniter bundle setup with
 
-- CodeIgniter 2.1.3
+- CodeIgniter 2.1.4
 - Phil Sturgeon's REST server
 https://github.com/philsturgeon/codeigniter-restserver
-- Jamie Rumbelow's CI base model
+- Jamie Rumbelow's CI base model 
+ - Fixed so native php functions work in model validation.
 https://github.com/jamierumbelow/codeigniter-base-model
 - MY_Pagaination prepared with the semantics that twitter bootstrap use.
 - Initializr Verekia 4.0 (Html5Boilerplate variant)
- - Twitter Bootstrap 2.*
+ - Twitter Bootstrap 2.3.2
  - jQuery 1.9.1 (updated)
  - HTML 5 Shiv
  - IE Classes
