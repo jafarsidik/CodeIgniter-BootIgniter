@@ -39,7 +39,3 @@ Configure or remove .htaccess file.
 
 Edit the header and footer for your needs.
 
-
-Notes
-============
- Phil Sturgeon's REST class has been added to /application/models/MY_Model instead of the suggested application/core/
