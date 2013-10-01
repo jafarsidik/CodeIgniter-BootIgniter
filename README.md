@@ -1,7 +1,5 @@
-BootIgniter
-===========
-
-A CodeIgniter bundle setup with
+DEPRECATED
+======================
 
 - CodeIgniter 2.1.4
 - Phil Sturgeon's REST server
